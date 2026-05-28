@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondalidate",
+        "uuid": 41143366,
+        "checksum": "k1p4e"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
